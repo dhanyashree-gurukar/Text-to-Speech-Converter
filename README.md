@@ -24,4 +24,4 @@ The **Text-to-Speech Converter** is a simple web-based application that takes us
 
 ## 🔗 Live Demo
 
-[Click here to try the Dictionary App](https://dhanyashree-gurukar.github.io/Text-to-Speech-Converter/)
+[Click here to see live demo](https://dhanyashree-gurukar.github.io/Text-to-Speech-Converter/)
