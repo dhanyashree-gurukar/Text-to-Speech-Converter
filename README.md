@@ -21,3 +21,7 @@ The **Text-to-Speech Converter** is a simple web-based application that takes us
 - Web Speech API (SpeechSynthesis)
 
 ---
+
+## 🔗 Live Demo
+
+[Click here to try the Dictionary App](https://dhanyashree-gurukar.github.io/Text-to-Speech-Converter/)
